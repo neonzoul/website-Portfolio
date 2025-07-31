@@ -14,6 +14,16 @@ Embed Link:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GNdgVVNwseE?si=8X5sECh-x4Dx8_oU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+- Notion Design: Crowd Funding Platform.
+https://youtu.be/_mLRB1UmJv4
+Embed Link:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_mLRB1UmJv4?si=wZLxNpXnR7KgSpSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- Notion Design: Trade Journal
+https://youtu.be/U2ZOYzP6YOg
+Embed Link:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U2ZOYzP6YOg?si=o21viwGV5oKxTKhb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - Designing Your First Landing Page: ChatGPT, Dalle 3, and Canva
 https://youtu.be/Up-UqEC-Ia0?si=tzHyS4sog-Uords8
 Embed Link:

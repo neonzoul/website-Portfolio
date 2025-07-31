@@ -3,6 +3,9 @@
 ### **Final Portfolio Content: About Me & Resume**
 
 #### **About Me (Your Story)**
+Name: Moss Naruecha
+
+
 
 **[Title]**
 Software Developer (Automation & APIs)

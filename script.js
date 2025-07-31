@@ -71,9 +71,9 @@ for (let i = 0; i < filterBtn.length; i++) {
                 if (
                     categoryText.includes(filterValue) ||
                     (filterValue === 'ai-automation' &&
-                        categoryText.includes('ai')) ||
-                    (filterValue === 'ai-automation' &&
-                        categoryText.includes('automation'))
+                        (categoryText.includes('ai') ||
+                            categoryText.includes('automation'))) ||
+                    (filterValue === 'coding' && categoryText.includes('coding'))
                 ) {
                     portfolioItems[j].classList.add('active');
                 } else {

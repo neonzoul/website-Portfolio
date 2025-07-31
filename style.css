@@ -621,10 +621,11 @@ img {
     width: 100%;
     height: 100%;
     border: none;
+    object-fit: cover;
 }
 
 .portfolio-item .item-name {
-    padding: 15px;
+    padding: 15px 15px 35px 15px;
     font-size: var(--font-size-14);
     color: var(--color-white-95);
     margin-bottom: 10px;
@@ -633,7 +634,7 @@ img {
 .portfolio-item .item-icon {
     position: absolute;
     top: 10px;
-    right: 10px;
+    right: 15px;
     background: rgba(0, 0, 0, 0.7);
     color: var(--background-orange);
     padding: 8px;
@@ -644,10 +645,10 @@ img {
 .portfolio-item .item-category {
     position: absolute;
     bottom: 10px;
-    left: 15px;
-    background: var(--background-orange);
-    color: var(--color-white-100);
-    padding: 4px 12px;
+    right: 15px;
+    background: var(--background-dark-70);
+    color: var(--color-white-60);
+    padding: 4px 14px;
     border-radius: 15px;
     font-size: var(--font-size-11);
     font-weight: 500;
@@ -768,6 +769,98 @@ img {
 .contact-link span {
     font-size: var(--font-size-14);
     font-weight: 500;
+}
+
+/* GitHub Portfolio Card Styles */
+.portfolio-github {
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: var(--background-secondary);
+    border-radius: 8px;
+    border: 1px solid var(--color-white-10);
+}
+
+.github-card {
+    width: 100%;
+    padding: 20px;
+    text-align: left;
+}
+
+.github-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 12px;
+    color: var(--color-white-80);
+    font-size: 14px;
+}
+
+.github-header ion-icon {
+    font-size: 18px;
+}
+
+.repo-name {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 8px;
+    color: var(--color-white-95);
+}
+
+.repo-description {
+    font-size: 14px;
+    color: var(--color-white-60);
+    margin-bottom: 15px;
+    line-height: 1.4;
+}
+
+.repo-stats {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 15px;
+}
+
+.language {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 12px;
+    color: var(--color-white-60);
+}
+
+.color-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+}
+
+.color-dot.html {
+    background-color: #e34c26;
+}
+.color-dot.css {
+    background-color: #563d7c;
+}
+.color-dot.js {
+    background-color: #f1e05a;
+}
+
+.github-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 14px;
+    color: var(--background-orange);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.github-link:hover {
+    color: var(--color-white-95);
+}
+
+.github-link ion-icon {
+    font-size: 16px;
 }
 
 /*MEDIA QUERIES*/

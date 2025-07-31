@@ -597,9 +597,10 @@ img {
 }
 
 .portfolio-items {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    grid-gap: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
     margin-top: 40px;
 }
 
@@ -610,6 +611,7 @@ img {
     overflow: hidden;
     transition: all 0.3s ease;
     display: none;
+    flex: 0 1 350px;
 }
 
 .portfolio-item.active {
@@ -632,6 +634,15 @@ img {
     height: 100%;
     border: none;
     object-fit: cover;
+}
+
+.portfolio-item-link-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
 }
 
 .portfolio-item .item-name {

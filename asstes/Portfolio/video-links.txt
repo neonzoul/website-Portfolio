@@ -1,0 +1,20 @@
+- Title: AI แชทบอท อัปเกรดความจำแชทและแนะนำสินค้าได้
+https://youtu.be/nNtvAFa5cM8?si=Z0mZhpNaJdg0CfxT
+Embed link: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nNtvAFa5cM8?si=_bGyRikTyxZ1q3m5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- Title: สร้าง AI Chatbot ด้วย ChatGPT และ Make.com 
+https://youtu.be/EgQZcCmegs8?si=fPd-tJLcdpy_b7Lc
+Embed Link:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EgQZcCmegs8?si=ixUkmu-iGXEbXBkN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- "เปรียบเทียบการใช้งาน AI ค้นหาข้อมูล"
+https://youtu.be/GNdgVVNwseE
+Embed Link:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GNdgVVNwseE?si=8X5sECh-x4Dx8_oU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+- Designing Your First Landing Page: ChatGPT, Dalle 3, and Canva
+https://youtu.be/Up-UqEC-Ia0?si=tzHyS4sog-Uords8
+Embed Link:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Up-UqEC-Ia0?si=iiKglCZrgqJ4kun9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

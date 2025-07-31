@@ -313,8 +313,10 @@ img {
 }
 
 .hero-content .title {
-    font-size: var(--font-size-14);
-    color: var(--color-white-60);
+    font-size: var(--font-size-30);
+    color: var(--color-white-95);
+    font-weight: 700;
+    margin-bottom: 20px;
 }
 
 .hero-content .description {

@@ -51,7 +51,7 @@ I'm a strong communicator who thrives on architecting the right solution and loo
 -   HTML/CSS/JavaScript: 50%
 -   Go (Golang): 40%
 
-**Professional Skills**
+**Professional Skills** (not show as %)
 
 -   Notion
 -   Lo-code Automation tools
